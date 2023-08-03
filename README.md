@@ -2,6 +2,7 @@
 ### QA-engineer 👨‍💻
 
 - 👨‍💻 Работаю инженером по тестированию ПО более 2 лет
+- 🎓Изучаю автоматизированное тестирование на JAVA
 - 📫 Свяжись со мной:
 
 <a href="https://t.me/is_tyunin">
@@ -13,6 +14,16 @@
 <a href="mailto:tomslavg96@gmail.com">
     <img width="6%" src="media/logo/Gmail_icon.svg" alt="GMail"/>
 </a>
+
+## 🎓 Образование
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/media/logo/Tpu.svg"></td><td valign="middle">Томский политехнический университет</br>Физико-технический институт</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/media/logo/Raiffeisen_Bank.svg"></td><td valign="middle">Raiffeisen Bank</br>QA-Bootcamp</td>
+    <tr><td width="30%" valign="bottom"><img src="/media/logo/QAguru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a></br>Автоматизация на Java</td></tr>
+   </tr>
+  </table>
+  </br>
 
 ## &#129470; Используемый стек
 
@@ -30,16 +41,6 @@
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
-
-## 🎓 Образование
-<table width="100%" border='0'>
-   <tr> 
-    <td width="30%" valign="bottom"><img src="/media/logo/Tpu.svg"></td><td valign="middle">Томский политехнический университет</br>Физико-технический институт</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/media/logo/Raiffeisen_Bank.svg"></td><td valign="middle">Raiffeisen Bank</br>QA-Bootcamp</td>
-    <tr><td width="30%" valign="bottom"><img src="/media/logo/QAguru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a></br>Автоматизация на Java</td></tr>
-   </tr>
-  </table>
-  </br>
 
 ### ⚙&nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyatyunin&theme=algolia)
