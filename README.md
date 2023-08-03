@@ -36,11 +36,10 @@
    <tr> 
     <td width="30%" valign="bottom"><img src="/media/logo/Tpu.svg"></td><td valign="middle">Томский политехнический университет</br>Физико-технический институт</td></tr>
     <tr><td width="30%" valign="bottom"><img src="/media/logo/Raiffeisen_Bank.svg"></td><td valign="middle">Raiffeisen Bank</br>QA-Bootcamp</td>
-    <tr><td width="30%" valign="bottom"><img src="/media/logo/QAguru.jpeg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/media/logo/QAguru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a></br>Автоматизация на Java</td></tr>
    </tr>
   </table>
   </br>
 
 ### ⚙&nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyatyunin&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyatyunin&theme=algolia)
